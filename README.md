@@ -54,4 +54,4 @@ notebooks/
 Python, pandas(분할 집계), geopandas, shapely, scipy KD-tree, rasterio, matplotlib, QGIS
 
 ## 작업 범위
-주제 선정과 분석 판단은 팀이 직접 했고, 집계·분석 코드 작성과 검수에는 생성형 AI를 활용했습니다.
+주제 선정과 분석 판단은 팀이 직접 했습니다.
